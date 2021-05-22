@@ -1,15 +1,15 @@
 <p align="center">
 	<br>
-  <img width="200" src="https://github.com/lirantal/npq/raw/master/.github/Logo%20Horizontal.png">
+  <img width="200" src="https://github.com/snyk-labs/npq/raw/master/.github/Logo%20Horizontal.png">
 	<br>
 	safely* install packages with npm/yarn by auditing them as part of your install process
 </p>
 
 [![npm](https://img.shields.io/npm/v/npq.svg)](https://www.npmjs.com/package/npq)
 [![npm](https://img.shields.io/npm/l/npq.svg)](https://www.npmjs.com/package/npq)
-[![codecov](https://codecov.io/gh/lirantal/npq/branch/master/graph/badge.svg)](https://codecov.io/gh/lirantal/npq)
-[![Build Status](https://github.com/lirantal/npq/workflows/unit-tests/badge.svg)](https://github.com/lirantal/npq/workflows/unit-tests)
-[![Known Vulnerabilities](https://snyk.io/test/github/lirantal/npq/badge.svg)](https://snyk.io/test/github/lirantal/npq)
+[![codecov](https://codecov.io/gh/snyk-labs/npq/branch/main/graph/badge.svg)](https://codecov.io/gh/snyk-labs/npq)
+[![Build Status](https://github.com/snyk-labs/npq/workflows/unit-tests/badge.svg)](https://github.com/snyk-labs/npq/workflows/unit-tests)
+[![Known Vulnerabilities](https://snyk.io/test/github/snyk-labs/npq/badge.svg)](https://snyk.io/test/github/snyk-labs/npq)
 [![Security Responsible Disclosure](https://img.shields.io/badge/Security-Responsible%20Disclosure-yellow.svg)](./SECURITY.md)
 
 
@@ -132,7 +132,4 @@ script:
 
 ## Contributing
 
-Please consult the [CONTRIBUTING](https://github.com/lirantal/npq/blob/master/CONTRIBUTING.md) for guidelines on contributing to this project
-
-## Author
-Liran Tal <liran.tal@gmail.com>
+Please consult the [Contirbutor-Agreement](https://github.com/lirantal/npq/blob/master/Contirbutor-Agreement.md) for guidelines on contributing to this project

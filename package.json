@@ -20,14 +20,10 @@
     "postinstall": "node scripts/postinstall.js",
     "preuninstall": "node scripts/preuninstall.js"
   },
-  "author": {
-    "name": "Liran Tal",
-    "email": "liran.tal@gmail.com"
-  },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lirantal/npq.git"
+    "url": "git+https://github.com/snyk-labs/npq.git"
   },
   "devDependencies": {
     "@babel/core": "^7.7.4",
