@@ -1,8 +1,8 @@
 <p align="center">
+  snyk-labs
 	<br>
-  <img width="200" src="https://github.com/snyk-labs/npq/raw/master/.github/Logo%20Horizontal.png">
 	<br>
-	safely* install packages with npm/yarn by auditing them as part of your install process
+	safely install packages with npm/yarn by auditing them as part of your install process
 </p>
 
 [![npm](https://img.shields.io/npm/v/npq.svg)](https://www.npmjs.com/package/npq)
@@ -15,7 +15,7 @@
 
 [![npq](https://snyk.io/advisor/npm-package/npq/badge.svg)](https://snyk.io/advisor/npm-package/npq)
 
-![npq-demo-3-final](https://github.com/lirantal/npq/blob/master/.github/npq-demo.gif?raw=true)
+![npq-demo-3-final](https://github.com/snyk-labs/npq/blob/master/.github/npq-demo.gif?raw=true)
 
 
 Media coverage about npq:
@@ -125,11 +125,11 @@ script:
 * NPQ will audit a package for possible security issues, but it isn't a replacement for npm or yarn. When you choose to continue installing the package, it will offload the installation process to your choice of either npm or yarn.
 2. **How is NPQ different from npm audit?**
 * `npm install` will install a module even if it has vulnerabilities; NPQ will display the issues detected, and prompt the user for confirmation on whether to proceed installing it.
-* NPQ will run synthethic checks, called [marshalls](https://github.com/lirantal/npq#marshalls), on the characteristics of a module, such as whether the module you are going to install has a `pre-install` script which can be potentially harmful for your system and prompt you whether to install it. Whereas `npm audit` will not perform any such checks, and only consults a vulnerability database for known security issues.
+* NPQ will run synthethic checks, called [marshalls](https://github.com/snyk-labs/npq#marshalls), on the characteristics of a module, such as whether the module you are going to install has a `pre-install` script which can be potentially harmful for your system and prompt you whether to install it. Whereas `npm audit` will not perform any such checks, and only consults a vulnerability database for known security issues.
 * `npm audit` is closer in functionality to what snyk does, rather than what NPQ does.
 3. **Do I require a snyk API key in order to use NPQ?**
 * It's not required. If NPQ is unable to detect a snyk API key for the user running NPQ, then it will skip the database vulnerabilities check. We do, however, greatly encourage you to use snyk, and connect it with NPQ for broader security.
 
 ## Contributing
 
-Please consult the [Contirbutor-Agreement](https://github.com/lirantal/npq/blob/master/Contirbutor-Agreement.md) for guidelines on contributing to this project
+Please consult the [Contirbutor-Agreement](https://github.com/snyk-labs/npq/blob/master/Contirbutor-Agreement.md) for guidelines on contributing to this project
