@@ -7,15 +7,12 @@
 
 [![npm](https://img.shields.io/npm/v/npq.svg)](https://www.npmjs.com/package/npq)
 [![npm](https://img.shields.io/npm/l/npq.svg)](https://www.npmjs.com/package/npq)
-[![codecov](https://codecov.io/gh/snyk-labs/npq/branch/main/graph/badge.svg)](https://codecov.io/gh/snyk-labs/npq)
-[![Build Status](https://github.com/snyk-labs/npq/workflows/unit-tests/badge.svg)](https://github.com/snyk-labs/npq/workflows/unit-tests)
-[![Known Vulnerabilities](https://snyk.io/test/github/snyk-labs/npq/badge.svg)](https://snyk.io/test/github/snyk-labs/npq)
 [![Security Responsible Disclosure](https://img.shields.io/badge/Security-Responsible%20Disclosure-yellow.svg)](./SECURITY.md)
 
 
 [![npq](https://snyk.io/advisor/npm-package/npq/badge.svg)](https://snyk.io/advisor/npm-package/npq)
 
-![npq-demo-3-final](https://github.com/snyk-labs/npq/blob/master/.github/npq-demo.gif?raw=true)
+![npq-demo-3-final](https://github.com/snyk-labs/npq/blob/main/.github/npq-demo.gif?raw=true)
 
 
 Media coverage about npq:
