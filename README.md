@@ -1,5 +1,5 @@
 <p align="center">
-  snyk-labs
+  npq
 	<br>
 	<br>
 	safely install packages with npm/yarn by auditing them as part of your install process
